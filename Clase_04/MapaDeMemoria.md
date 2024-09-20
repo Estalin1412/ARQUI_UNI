@@ -1,0 +1,10 @@
+Mapa de memoria del tmc51
+0000h
+FLAS ROM(8kilobytes = 8 * 1024): MONITOR O FIMEARE]
+1FFFH
+2000H
+vacio
+7FFFH
+8000h
+RAM EXTERNA
+FFFFH
